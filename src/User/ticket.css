@@ -1,0 +1,46 @@
+.button-box
+{
+	width:220px;
+	margin:16px auto;
+	position:relative;
+	box-shadow: 2px 3px 10px rgba(0,0,0,0.6);
+	border-radius: 30px;
+}
+.toggle-btn
+{
+	padding:10px 30px;
+	cursor:pointer;
+	background:transparent;
+	border:0;
+	outline: none;
+	position: relative;
+    
+}
+#btn
+{
+	top: 0;
+	left:0;
+	position: absolute;
+	width: 110px;
+	height: 100%;
+	background: #4b1cac;
+	border-radius: 30px;
+	transition: .5s;
+}
+
+.outer__design
+{
+    width:100%;
+    background: white;
+    background-clip: padding-box;
+    padding:10px;
+    border-radius: 18px;
+    margin: 10px 0px;
+    box-shadow: 3px 3px 8px rgba(0,0,0,0.6);
+     
+}
+
+.outer__design2
+{
+	height:483px !important;
+}

@@ -1,0 +1,29 @@
+/*home*/
+ 
+.home__background{
+    background-color: #f0f0f0 !important;
+}
+.heading__1{
+    font-weight: 800 !important;
+    color: #053742;
+    text-transform: uppercase;
+}
+.heading__2{
+    color: #0F6C81;
+    font-weight: 500;
+    line-height: 1.5;
+}
+.heading__3{
+    line-height: 1.8;
+    text-align: center;
+ 
+}
+.footer__nav{
+    padding-left:2rem;
+    text-decoration: none;
+    color: #000;
+}
+.footer__nav_1{
+    text-decoration: none;
+    color: #000;
+}
